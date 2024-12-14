@@ -25,6 +25,32 @@ Exercises: Implementing multithreaded game logic (e.g., background loading, AI p
 Assignment: Develop a multithreaded system for a specific game task (e.g., loading assets concurrently).
 
 # Week 4: Delegates, Events, and Lambda Expressions
+## Delegate
+Delegate là 1 dạng **reference to a method**, nó là 1 con trỏ để trỏ tới 1 đoạn mã 
+
+Delegate cung cấp cơ chế **late binding** trong .NET. Late Binding means that you create an algorithm where the caller also supplies at least one method that implements part of the algorithm.
+In C#, a delegate is a type that represents a reference to a method. It's essentially a type-safe function pointer. You define a delegate with a specific signature (return type and parameters), and then you can create instances of that delegate that point to methods matching that signature.
+
+**Ưu điểm**
+- **Event Handling**: Delegates là nền tảng của cơ chế **event handling** trong C# - events cho phép object A thông báo tới các objects khác khi có 1 điều gì đó xảy ra
+- **Callback Functions**: Delegates enable callback functionality. You can pass a delegate to a method, and that method can then call the delegate at a later time, effectively allowing you to customize its behavior. **Callback function** is a function passed as an argument to another function. It's invoked by the called function at some point to perform a specific task.
+- **Flexibility and Extensibility**: Delegates make your code more flexible and extensible. You can change the behavior of a part of your program without modifying its core logic by simply changing the delegate instance it uses. 
+- **Asynchronous Programming**: Delegates are used extensively in asynchronous programming to represent methods that will be executed when an asynchronous operation completes.
+- **Functional Programming Paradigms**: Delegates support functional programming paradigms like passing functions as arguments to other functions (higher-order functions).
+- **Decoupling**: Delegates promote decoupling between components. One component can call methods in another component without needing a direct reference to that component, as long as it has a delegate to the appropriate method.
+
+**Nhược điểm**:
+- **Slight Performance Overhead**: Calling a method through a delegate involves a small performance overhead compared to a direct method call. However, this overhead is usually negligible in most applications.
+- **Can Increase Complexity (if overused)**: Overuse of delegates can sometimes make code harder to understand, especially if the delegate chains become long or complex. It's important to use delegates judiciously.
+- **Memory Management (for multicast delegates)**: Multicast delegates (delegates that hold references to multiple methods) require some memory management. If you add and remove methods from a multicast delegate frequently, you might need to be mindful of potential memory leaks (though this is less of a concern with modern garbage collection).
+- **Debugging Can Be Slightly More Complex**: Debugging code that uses delegates can sometimes be slightly more complex because you need to trace the execution flow through the delegate chain.
+
+**Khi nào thì dùng delegate**:
+- **Event handling**: The most common use case.
+- **Callbacks**: When you need to pass a piece of functionality to another method.
+- **Asynchronous operations**: To handle completion or progress updates.
+- **Customizing algorithms or behavior**: To allow users of your code to inject their own logic.
+- **Implementing design patterns**: Many design patterns, such as Observer, Strategy, and Command, rely on delegates.
 
 Lectures: Advanced usage of delegates and events for event-driven programming, lambda expressions for concise code, functional programming concepts in C#.
 

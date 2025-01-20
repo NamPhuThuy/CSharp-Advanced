@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\bin\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.exe
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\bin\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.deps.json
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\bin\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.runtimeconfig.json
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\bin\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.dll
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\bin\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.pdb
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.AssemblyInfo.cs
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.sourcelink.json
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.dll
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\refint\Week-01-Basic-syntax-and-Data-types.dll
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.pdb
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\Week-01-Basic-syntax-and-Data-types.genruntimeconfig.cache
+D:\CSharp-Advanced\Week-01-Basic-syntax-and-Data-types\obj\Debug\net8.0\ref\Week-01-Basic-syntax-and-Data-types.dll

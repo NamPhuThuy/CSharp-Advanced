@@ -1,4 +1,183 @@
-# C--Advanced
+# C# Learning Syllabus
+
+## Module 1: Fundamentals (2-3 weeks)
+### Week 1: Basic Syntax and Data Types
+- Development environment setup
+- **Basic program structure**
+  - **Top-level statements**: 
+  - **Program's entry point**: điểm bắt đầu và kết thúc của 1 C# program khi được khởi chạy (thường là **static void Main()**, trong Unity là **Awake()** và **Start()**)
+  - **Command-line arguments**: 
+  
+- Variables and data types (`int`, `string`, `bool`, etc.)
+  - variable - constant, constructs
+  - Type conversion
+  - Mutation: In programming, "mutation" means changing the state of an object (its properties or data). 
+  - Destructive Mutation: This is the traditional way of modifying objects. You change the object's properties directly, altering its original state. 
+  - Nondestructive Mutation: Instead of changing the original object, you create a new object with the desired modifications. The original object remains unchanged.
+- Type inference with `var`
+- Constants with `const`
+- Basic operators
+
+### Week 2: Control Flow
+- `if`, `else` statements
+- `switch` statements
+- Loops (`for`, `while`, `do-while`)
+- `break`, `continue`
+- Basic error handling with `try-catch`
+- **Project**: Number guessing game
+
+### Week 3: Methods and Arrays
+- Method declaration and parameters
+- Return types and `void`
+- Method overloading
+- Arrays and basic collections
+- `foreach` loops
+- **Project**: Array manipulation utility
+
+## Module 2: Object-Oriented Programming (4 weeks)
+### Week 4: Classes and Objects
+- Class structure
+- `public`, `private`, `protected`
+- Properties and fields
+- Constructors
+- `this` keyword
+- **Project**: Student management system
+
+### Week 5: Inheritance and Polymorphism
+- Inheritance basics
+- `virtual` and `override`
+- Abstract classes with `abstract`
+- Method hiding with `new`
+- `base` keyword
+- **Project**: Shape hierarchy system
+
+### Week 6: Interfaces and Advanced OOP
+- Interface declaration and implementation
+- Multiple interfaces
+- `is` and `as` operators
+- Polymorphic interfaces
+- **Project**: Plugin system
+
+### Week 7: Advanced Class Concepts
+- Static members with `static`
+- Extension methods
+- Partial classes
+- Nested classes
+- **Project**: Mathematics library
+
+## Module 3: Memory Management and Advanced Features (3 weeks)
+### Week 8: Memory Management
+- Value vs Reference types
+- Garbage collection
+- `using` statements
+- IDisposable pattern
+- **Project**: Resource management system
+
+### Week 9: Generics and Collections
+- Generic classes and methods
+- Generic constraints with `where`
+- Collection interfaces
+- Generic collections
+- **Project**: Custom generic collection
+
+### Week 10: Delegates and Events
+- Delegate declaration
+- Event handling
+- Lambda expressions
+- Anonymous methods
+- **Project**: Event-driven application
+
+## Module 4: Modern C# Features (3 weeks)
+### Week 11: LINQ
+- LINQ syntax
+- Query expressions
+- Method syntax
+- LINQ operators
+- **Project**: Data analysis tool
+
+### Week 12: Asynchronous Programming
+- `async` and `await`
+- Task Parallel Library
+- Async patterns
+- Exception handling in async code
+- **Project**: Async file processor
+
+### Week 13: Advanced Modern Features
+- Pattern matching
+- Records
+- Nullable reference types
+- Switch expressions
+- **Project**: Modern C# showcase application
+
+## Module 5: Professional Development (4 weeks)
+### Week 14: Error Handling and Logging
+- Exception handling patterns
+- Custom exceptions
+- Logging frameworks
+- Debugging techniques
+- **Project**: Logging system
+
+### Week 15: Testing
+- Unit testing basics
+- Test-driven development
+- Mocking
+- Integration testing
+- **Project**: Test suite for previous projects
+
+### Week 16: Design Patterns
+- Common design patterns
+- SOLID principles
+- Clean code practices
+- Code organization
+- **Project**: Design pattern implementation
+
+### Week 17: Real-World Application
+- Final project incorporating all concepts
+- Code review practices
+- Performance optimization
+- Documentation
+- **Project**: Full-scale application
+
+## Learning Resources
+1. Documentation:
+    - Microsoft C# Documentation
+    - .NET API Browser
+    - C# Language Specification
+
+2. Practice Platforms:
+    - LeetCode
+    - HackerRank
+    - Exercism.io (C# track)
+
+3. Tools:
+    - Visual Studio
+    - Visual Studio Code
+    - ReSharper/Rider
+    - GitHub
+
+## Study Tips
+1. Code daily (minimum 1-2 hours)
+2. Build projects beyond the syllabus requirements
+3. Read other developers' code on GitHub
+4. Participate in code reviews
+5. Join C# community forums
+6. Watch conference talks and coding tutorials
+
+## Assessment Methods
+1. Weekly coding exercises
+2. Module projects
+3. Code reviews
+4. Technical writing exercises
+5. Final project presentation
+
+## Progression Markers
+- Basic: Complete Modules 1-2
+- Intermediate: Complete Modules 1-3
+- Advanced: Complete Modules 1-4
+- Professional: Complete all Modules
+
+Each module builds upon the previous ones, so ensure thorough understanding before moving forward.
+
 
 # Week 1: Advanced Object-Oriented Programming & Design Patterns
 

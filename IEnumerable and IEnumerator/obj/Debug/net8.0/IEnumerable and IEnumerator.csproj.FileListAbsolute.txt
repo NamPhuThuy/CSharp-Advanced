@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\IEnumerable and IEnumerator\bin\Debug\net8.0\IEnumerable and IEnumerator.exe
+D:\CSharp-Advanced\IEnumerable and IEnumerator\bin\Debug\net8.0\IEnumerable and IEnumerator.deps.json
+D:\CSharp-Advanced\IEnumerable and IEnumerator\bin\Debug\net8.0\IEnumerable and IEnumerator.runtimeconfig.json
+D:\CSharp-Advanced\IEnumerable and IEnumerator\bin\Debug\net8.0\IEnumerable and IEnumerator.dll
+D:\CSharp-Advanced\IEnumerable and IEnumerator\bin\Debug\net8.0\IEnumerable and IEnumerator.pdb
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.AssemblyInfo.cs
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.sourcelink.json
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.dll
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\refint\IEnumerable and IEnumerator.dll
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.pdb
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\IEnumerable and IEnumerator.genruntimeconfig.cache
+D:\CSharp-Advanced\IEnumerable and IEnumerator\obj\Debug\net8.0\ref\IEnumerable and IEnumerator.dll

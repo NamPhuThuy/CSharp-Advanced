@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.AssemblyInfo.cs
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.sourcelink.json
+D:\CSharp-Advanced\LINQ in C Sharp\bin\Debug\net8.0\LINQ in C Sharp.exe
+D:\CSharp-Advanced\LINQ in C Sharp\bin\Debug\net8.0\LINQ in C Sharp.deps.json
+D:\CSharp-Advanced\LINQ in C Sharp\bin\Debug\net8.0\LINQ in C Sharp.runtimeconfig.json
+D:\CSharp-Advanced\LINQ in C Sharp\bin\Debug\net8.0\LINQ in C Sharp.dll
+D:\CSharp-Advanced\LINQ in C Sharp\bin\Debug\net8.0\LINQ in C Sharp.pdb
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.dll
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\refint\LINQ in C Sharp.dll
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.pdb
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\LINQ in C Sharp.genruntimeconfig.cache
+D:\CSharp-Advanced\LINQ in C Sharp\obj\Debug\net8.0\ref\LINQ in C Sharp.dll
